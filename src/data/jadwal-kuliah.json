@@ -5,9 +5,9 @@
   "jadwal": [
     {
       "hari": "Senin",
-      "jam": "",
-      "kodeMK": "",
-      "mataKuliah": "",
+      "jam": "libur",
+      "kodeMK": "libur",
+      "mataKuliah": "libur",
       "sks": 0,
       "dosen": "",
       "ruang": ""
