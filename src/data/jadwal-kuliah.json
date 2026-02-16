@@ -1,0 +1,52 @@
+{
+  "semester": "Semester 8 - 2025/2026",
+  "program": "8 - STI",
+  "kelas": "A",
+  "jadwal": [
+    {
+      "hari": "Senin",
+      "jam": "",
+      "kodeMK": "",
+      "mataKuliah": "",
+      "sks": 0,
+      "dosen": "",
+      "ruang": ""
+    },
+    {
+      "hari": "Selasa",
+      "jam": "1-2",
+      "kodeMK": "MPB14-2205",
+      "mataKuliah": "Seminar",
+      "sks": 2,
+      "dosen": "Erri Wahyu Puspitarini, S.Kom, M.MT",
+      "ruang": "1-F"
+    },
+    {
+      "hari": "Rabu",
+      "jam": "3-4",
+      "kodeMK": "",
+      "mataKuliah": "TOEFL",
+      "sks": 0,
+      "dosen": "Khusnul Khotimah, M.Pd",
+      "ruang": "1-L"
+    },
+    {
+      "hari": "Kamis",
+      "jam": "3-4",
+      "kodeMK": "MKB14-2229",
+      "mataKuliah": "Internet Marketing",
+      "sks": 2,
+      "dosen": "Hari Moerti, S.Kom, M.AB",
+      "ruang": "1-H"
+    },
+    {
+      "hari": "Jumat",
+      "jam": "3-4",
+      "kodeMK": "MPB14-2606",
+      "mataKuliah": "Skripsi",
+      "sks": 6,
+      "dosen": "Team",
+      "ruang": ""
+    }
+  ]
+}
